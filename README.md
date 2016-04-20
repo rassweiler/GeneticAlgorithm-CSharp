@@ -1,4 +1,6 @@
 #Simple Genetic Algorithm C# Edition
+![ScreenShot](Documentation/GACS001.png)
+![ScreenShot](Documentation/GACS002.png)
 
 ## Credits
 
