@@ -41,7 +41,7 @@ namespace GeneticAlgorithm
         	targetlength = p1.targetlength;
         	genesArray = new char[targetlength];
         	for(int i = 0; i < targetlength; ++i){
-        		if(rand.Next(1) == 1)
+        		if(rand.Next(2) == 1)
         		{
         			genesArray[i] = p1.genesArray[i];
         		}
